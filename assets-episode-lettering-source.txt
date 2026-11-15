@@ -1,0 +1,4 @@
+Episode lettering uses outlines from Great Vibes Regular, by TypeSETit.
+Source: https://github.com/google/fonts/tree/main/ofl/greatvibes
+Font source: GreatVibes-Regular.ttf; license: SIL Open Font License 1.1 (GreatVibes-OFL.txt).
+Only the outlines required for episode 1, episode 2 and episode 3 are included in the React component.
