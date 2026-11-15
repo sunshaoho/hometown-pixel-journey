@@ -1,0 +1,200 @@
+{
+  "videos": [
+    {
+      "id": "streets",
+      "source": "streets-5s.mp4",
+      "file": "streets.mp4",
+      "sha256": "a0f81124e2ed29028cbed9997392392b8ac8fa5f1e2a21aaa04a1becf2fdc99a",
+      "bytes": 1828344,
+      "width": 1232,
+      "height": 928,
+      "duration": 5.0,
+      "codec": "h264",
+      "profile": "High",
+      "pixelFormat": "yuv420p",
+      "fps": "20/1",
+      "frames": 100,
+      "fullDecodePassed": true,
+      "poster": {
+        "file": "streets-poster.webp",
+        "width": 1232,
+        "height": 928,
+        "bytes": 752826
+      },
+      "end": {
+        "file": "streets-end.webp",
+        "width": 1232,
+        "height": 928,
+        "bytes": 902212
+      }
+    },
+    {
+      "id": "hospital",
+      "source": "hospital-5s(1).mp4",
+      "file": "hospital.mp4",
+      "sha256": "f165928f9efd47cb2b05b4dbc0bd459855086a06b2e7905874e18105f045c8b3",
+      "bytes": 3302606,
+      "width": 768,
+      "height": 576,
+      "duration": 5.0,
+      "codec": "h264",
+      "profile": "Constrained Baseline",
+      "pixelFormat": "yuv420p",
+      "fps": "20/1",
+      "frames": 100,
+      "fullDecodePassed": true,
+      "poster": {
+        "file": "hospital-poster.webp",
+        "width": 768,
+        "height": 576,
+        "bytes": 464816
+      },
+      "end": {
+        "file": "hospital-end.webp",
+        "width": 768,
+        "height": 576,
+        "bytes": 535454
+      }
+    },
+    {
+      "id": "square",
+      "source": "square-5s(1).mp4",
+      "file": "square.mp4",
+      "sha256": "42b3772697e22cec3230e291085f12fe0c7af6b7b79f2415732484b7d0bcb8c1",
+      "bytes": 3931638,
+      "width": 960,
+      "height": 540,
+      "duration": 5.0,
+      "codec": "h264",
+      "profile": "Constrained Baseline",
+      "pixelFormat": "yuv420p",
+      "fps": "20/1",
+      "frames": 100,
+      "fullDecodePassed": true,
+      "poster": {
+        "file": "square-poster.webp",
+        "width": 960,
+        "height": 540,
+        "bytes": 508308
+      },
+      "end": {
+        "file": "square-end.webp",
+        "width": 960,
+        "height": 540,
+        "bytes": 683682
+      }
+    },
+    {
+      "id": "wanda",
+      "source": "wanda_no_watermark.mp4",
+      "file": "wanda.mp4",
+      "sha256": "4186ae164e2513264f91839936b45102857e00604838da01d47314de28c5a0c0",
+      "bytes": 3030508,
+      "width": 1280,
+      "height": 720,
+      "duration": 4.11,
+      "codec": "h264",
+      "profile": "High",
+      "pixelFormat": "yuv420p",
+      "fps": "24/1",
+      "frames": 96,
+      "fullDecodePassed": true,
+      "poster": {
+        "file": "wanda-poster.webp",
+        "width": 1280,
+        "height": 720,
+        "bytes": 440864
+      },
+      "end": {
+        "file": "wanda-end.webp",
+        "width": 1280,
+        "height": 720,
+        "bytes": 871364
+      }
+    },
+    {
+      "id": "ouya",
+      "source": "ouya_no_watermark.mp4",
+      "file": "ouya.mp4",
+      "sha256": "dfed5ae4c1745dac70addb0fa59d9e79109a196da3d631b5643889b6b4ec31c2",
+      "bytes": 5804300,
+      "width": 1280,
+      "height": 720,
+      "duration": 7.105,
+      "codec": "h264",
+      "profile": "High",
+      "pixelFormat": "yuv420p",
+      "fps": "24/1",
+      "frames": 168,
+      "fullDecodePassed": true,
+      "poster": {
+        "file": "ouya-poster.webp",
+        "width": 1280,
+        "height": 720,
+        "bytes": 811190
+      },
+      "end": {
+        "file": "ouya-end.webp",
+        "width": 1280,
+        "height": 720,
+        "bytes": 888860
+      }
+    }
+  ],
+  "images": [
+    {
+      "id": "first-home",
+      "source": "Six-story pixel voxel courtyard with narrow ramp(1).png",
+      "lossless": true,
+      "file": "first-home.webp",
+      "width": 1672,
+      "height": 941,
+      "bytes": 2319348
+    },
+    {
+      "id": "home-interior",
+      "source": "Sunlit pixel-art living room with clear walls(1).png",
+      "lossless": true,
+      "file": "home-interior.webp",
+      "width": 1672,
+      "height": 941,
+      "bytes": 1907734
+    },
+    {
+      "id": "second-home",
+      "source": "Pixel shop lane and apartment compound(1).png",
+      "lossless": true,
+      "file": "second-home.webp",
+      "width": 1672,
+      "height": 941,
+      "bytes": 2187110
+    },
+    {
+      "id": "milk-tea",
+      "source": "After-school milk tea by the blue door(1).png",
+      "lossless": true,
+      "file": "milk-tea.webp",
+      "width": 1672,
+      "height": 941,
+      "bytes": 1894796
+    },
+    {
+      "id": "third-home",
+      "source": "Grand gate garden compound(1).png",
+      "lossless": true,
+      "file": "third-home.webp",
+      "width": 1672,
+      "height": 941,
+      "bytes": 2316692
+    },
+    {
+      "id": "shop",
+      "source": "L-shaped hometown shop in pixel art(1).png",
+      "lossless": true,
+      "file": "shop.webp",
+      "width": 1672,
+      "height": 941,
+      "bytes": 2423408
+    }
+  ]
+}
